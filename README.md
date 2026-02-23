@@ -1,6 +1,6 @@
 ## Hi there 👋 I am SRI HARIKA VADDINENI!
 
-Welcome to my GitHub! I'm a **Sotware Engineer** with over **4+ years** of experience in designing, developing, and optimizing data pipelines, data architectures, and ETL processes. I love working with data, whether it's transforming raw data into meaningful insights or building scalable data solutions for business needs.
+Welcome to my GitHub! I'm a **Data Analyst/Engineer** with over **6 years** of experience in designing, developing, and optimizing data pipelines, data architectures, and ETL processes. I love working with data, whether it's transforming raw data into meaningful insights or building scalable data solutions for business needs.
 
 ## 🔭 I’m currently working on:
 * **PostgreSQL + Apache Airflow ETL Project:** Building a data pipeline with Docker and Airflow to automate ETL processes.
